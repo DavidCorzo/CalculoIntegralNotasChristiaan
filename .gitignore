@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!CalInt-SeccionA.pdf
+!CalInt-SeccionB.pdf
+
+# ...even if they are in subdirectories
+!*/
+
+
+
+
+
